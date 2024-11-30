@@ -27,5 +27,5 @@ In today's digital age, managing multiple online accounts requires strong and un
 ### Steps  
 1. Clone or download the project files:  
    ```bash
-   git clone https://github.com//password-manager.git
+   git clone https://github.com/Syedfaraz7860/password-manager.git
    cd password-manager
